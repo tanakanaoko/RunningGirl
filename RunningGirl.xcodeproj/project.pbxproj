@@ -13,6 +13,14 @@
 		B34514FA23C60A390016C864 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B34514F823C60A390016C864 /* Main.storyboard */; };
 		B34514FC23C60A3C0016C864 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B34514FB23C60A3C0016C864 /* Assets.xcassets */; };
 		B34514FF23C60A3C0016C864 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B34514FD23C60A3C0016C864 /* LaunchScreen.storyboard */; };
+		B345150E23C8B2A30016C864 /* dash2.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150623C8B2A20016C864 /* dash2.png */; };
+		B345150F23C8B2A30016C864 /* dash5.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150723C8B2A20016C864 /* dash5.png */; };
+		B345151023C8B2A30016C864 /* dash3.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150823C8B2A20016C864 /* dash3.png */; };
+		B345151123C8B2A30016C864 /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150923C8B2A20016C864 /* start.png */; };
+		B345151223C8B2A30016C864 /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150A23C8B2A20016C864 /* stop.png */; };
+		B345151323C8B2A30016C864 /* dash0.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150B23C8B2A20016C864 /* dash0.png */; };
+		B345151423C8B2A30016C864 /* dash4.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150C23C8B2A20016C864 /* dash4.png */; };
+		B345151523C8B2A30016C864 /* dash1.png in Resources */ = {isa = PBXBuildFile; fileRef = B345150D23C8B2A20016C864 /* dash1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		B34514FB23C60A3C0016C864 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B34514FE23C60A3C0016C864 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B345150023C60A3C0016C864 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B345150623C8B2A20016C864 /* dash2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash2.png; sourceTree = "<group>"; };
+		B345150723C8B2A20016C864 /* dash5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash5.png; sourceTree = "<group>"; };
+		B345150823C8B2A20016C864 /* dash3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash3.png; sourceTree = "<group>"; };
+		B345150923C8B2A20016C864 /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
+		B345150A23C8B2A20016C864 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
+		B345150B23C8B2A20016C864 /* dash0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash0.png; sourceTree = "<group>"; };
+		B345150C23C8B2A20016C864 /* dash4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash4.png; sourceTree = "<group>"; };
+		B345150D23C8B2A20016C864 /* dash1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +72,14 @@
 		B34514F123C60A390016C864 /* RunningGirl */ = {
 			isa = PBXGroup;
 			children = (
+				B345150B23C8B2A20016C864 /* dash0.png */,
+				B345150D23C8B2A20016C864 /* dash1.png */,
+				B345150623C8B2A20016C864 /* dash2.png */,
+				B345150823C8B2A20016C864 /* dash3.png */,
+				B345150C23C8B2A20016C864 /* dash4.png */,
+				B345150723C8B2A20016C864 /* dash5.png */,
+				B345150923C8B2A20016C864 /* start.png */,
+				B345150A23C8B2A20016C864 /* stop.png */,
 				B34514F223C60A390016C864 /* AppDelegate.swift */,
 				B34514F423C60A390016C864 /* SceneDelegate.swift */,
 				B34514F623C60A390016C864 /* ViewController.swift */,
@@ -126,8 +150,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				B34514FF23C60A3C0016C864 /* LaunchScreen.storyboard in Resources */,
+				B345151223C8B2A30016C864 /* stop.png in Resources */,
+				B345151023C8B2A30016C864 /* dash3.png in Resources */,
+				B345150F23C8B2A30016C864 /* dash5.png in Resources */,
 				B34514FC23C60A3C0016C864 /* Assets.xcassets in Resources */,
+				B345150E23C8B2A30016C864 /* dash2.png in Resources */,
 				B34514FA23C60A390016C864 /* Main.storyboard in Resources */,
+				B345151323C8B2A30016C864 /* dash0.png in Resources */,
+				B345151423C8B2A30016C864 /* dash4.png in Resources */,
+				B345151123C8B2A30016C864 /* start.png in Resources */,
+				B345151523C8B2A30016C864 /* dash1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
